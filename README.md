@@ -116,6 +116,8 @@ Training benefits greatly from a GPU.
 This will save `tetris_cem_best.npz` if the latest generation is the best one and `tetris_cem_genxxxx.npz` every 25 generations.
 
 ```bash
+# Remove saved model so training starts from scratch, otherwise it will continue from the latest saved model.
+rm tetris_cem_best.npz
 python train.py
 ```
 
@@ -141,3 +143,4 @@ While effective, this approach has limitations:
 3. **May miss emergent strategies** not captured by features
 
 Our approach lets the network discover its own internal representations. The ~100k parameters encode whatever features are useful for survival — learned, not designed.
+
