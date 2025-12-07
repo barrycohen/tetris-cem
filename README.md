@@ -4,9 +4,9 @@ A neural network-based Tetris AI that learns to play through evolutionary optimi
 
 Most of the code, including the idea to use CEM, was written by Claude 4.5 Pro.
 
-| <div style="width:360px">![](assets/demo.gif)</div> | <div style="width:360px">![](assets/demo.png)</div> |
-|:----------------------------:|:----------------------------:|
-| **First 500 lines**          | **After a few hours...**     |
+| ![](assets/demo.gif) | ![](assets/demo.png) |
+|:--------------------:|:--------------------:|
+| **First 500 lines**  | **After a few hours...** |
 
 ## Overview
 
