@@ -7,12 +7,12 @@ Most of the code, including the idea to use CEM, was written by Claude 4.5 Pro.
 <table>
   <tr>
     <td align="center">
-      <img src="assets/demo.gif" width="360"><br>
-      <b>First 500 lines</b><br>
+      <img src="assets/demo.gif" width="360" style="min-width: 360px;"><br>
+      <b>First 500 lines</b>
     </td>
     <td align="center">
-      <img src="assets/demo.png" width="360"><br>
-      <b>After a few hours...</b><br>
+      <img src="assets/demo.png" width="360" style="min-width: 360px;"><br>
+      <b>After a few hours...</b>
     </td>
   </tr>
 </table>
